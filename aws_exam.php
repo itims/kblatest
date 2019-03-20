@@ -71,9 +71,32 @@ if(!isset($_SESSION['UserData']['Username'])){
 <div class="col-md-4">
 		<h4>AWS Certified SysOps Associate Exam</h4>
         <ul>
-            <li><a href="AWS_SysOps_Exams/AWSSysOpsTest1/index.php">SysOps Administrator Associate Test 1</a></li>
-			<li><a href="AWS_SysOps_Exams/AWSSysOpsTest1A/index.php">SysOps Administrator Associate Test 1A</a></li>
-			<li><a href="AWS_SysOps_Exams/AWSSysOpsTest1B/index.php">SysOps Administrator Associate Test 1B</a></li>
+            <li><a href="AWS_SysOps_Exams/AWSSysOpsTest1/index.php">SysOps Administrator Associate Test 1 (65 Qstn.)</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsTest1A/index.php">SysOps Administrator Associate Test 1A (33 Qstn.)</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsTest1B/index.php">SysOps Administrator Associate Test 1B (32 Qstn.)</a></li>
+			<br>
+            <li><a href="AWS_SysOps_Exams/AWSSysOpsTest2/index.php">SysOps Administrator Associate Test 2 (65 Qstn.)</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsTest2A/index.php">SysOps Administrator Associate Test 2A (33 Qstn.)</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsTest2B/index.php">SysOps Administrator Associate Test 2B (32 Qstn.)</a></li>
+        </ul>
+</div>
+
+<div class="col-md-4">
+		<h4>Quick Test (10 Qstn.)</h4>
+        <ul>
+            <li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-01/index.php">SysOps Associate T-01</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-02/index.php">SysOps Associate T-02</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-03/index.php">SysOps Associate T-03</a></li>
+            <li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-04/index.php">SysOps Associate T-04</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-05/index.php">SysOps Associate T-05</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-06/index.php">SysOps Associate T-06</a></li>
+            <li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-07/index.php">SysOps Associate T-07</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-08/index.php">SysOps Associate T-08</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-09/index.php">SysOps Associate T-09</a></li>
+            <li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-10/index.php">SysOps Associate T-10</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-11/index.php">SysOps Associate T-11</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-12/index.php">SysOps Associate T-12</a></li>
+			<li><a href="AWS_SysOps_Exams/AWSSysOpsAssociate_T-13/index.php">SysOps Associate T-13</a></li>
         </ul>
 </div>
 

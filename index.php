@@ -85,6 +85,7 @@ if(!isset($_SESSION['UserData']['Username'])){
 		<h4>Cloud Computing</h4>
 		<h5>1. AWS SysOps Exam Tips</h5>
         <ul>
+			<li><a href="files_uploaded/AWS_Exam_QuickReview.pdf">Quick Review</a></li>
             <li><a href="files_uploaded/01_AWS_SysOps_Monitoring_and_Reporting.pdf">01. Monitoring & Reporting</a></li>
 			<li><a href="files_uploaded/02_AWS_SysOps_Deployment_and_Provisioning.pdf">02. Deployment & Provisioning</a></li>
 			<li><a href="files_uploaded/03_AWS_SysOps_High_Availability.pdf">03. High Availability</a></li>
