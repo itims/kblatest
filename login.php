@@ -44,6 +44,7 @@
 <br>
 <br>
 <br>
+<a href="aws_sysops_exam.php">SysOps Administrator Associate Exam</a>
 <br>
 <br>
 <br>
