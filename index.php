@@ -35,7 +35,6 @@ if(!isset($_SESSION['UserData']['Username'])){
                     <li><a href=""></a></li>
 		      <li><a href="upload.php">Upload Files</a></li>
 		      <li><a href="aws_exam.php">AWS Exam</a></li>
-		      <li><a href="pluralsight.php">Pluralsight</a></li>
 		      <li><a href="logout.php">Logout</a></li>
 		      <li><a href=""></a></li>
                     <li><a href=""></a></li>
@@ -106,6 +105,11 @@ if(!isset($_SESSION['UserData']['Username'])){
 			<li><a href="https://www.youtube.com/watch?v=hiu8DLSIoA0">Part 2:Migrating hosts and VM's to the vSphere Distributed Switch.</a></li>
         </ul>
 
+		<h4>Plural Sight</h4>
+        <ul>
+            <li><a href="https://app.pluralsight.com/library/courses/vmware-cloud-on-aws-fundamentals/table-of-contents">VMware Cloud on AWS Fundamentals</a></li>
+            <li><a href="https://app.pluralsight.com/library/courses/fundamentals-storage-virtualization/table-of-contents">Fundamentals of Storage Virtualization</a></li>
+        </ul>
 </div>
    
 <div class="col-md-4">
