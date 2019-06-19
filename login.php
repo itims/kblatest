@@ -44,13 +44,17 @@
 <br>
 <br>
 <br>
-<a href="aws_sysops_exam.php">SysOps Administrator Associate Exam</a>
+<a href="aws_sysops_exam.php">IT OPS Exam</a>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+MCSA & MCITP Practice Test
+<ul>
+<li><a href="http://www.gocertify.com/quizzes/">Ref:1</a></li>
+<li><a href="http://www.techiebird.com/ad14.html">Ref:2</a></li>
+<li><a href="http://www.techken.in/windows-server-os/server-scenario-interview-questions-part-1/">Ref:3</a></li>
+<li><a href="http://www.windowstricks.in/active-directory-real-time-interview-questions-and-answers">Ref:4</a></li>
+<li><a href="files_uploaded/Scenario_Based_AD_IQA.pdf">Scenario Based AD - IQA</a></li>
+</ul>
 <br>
 <br>
 <br>
