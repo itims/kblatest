@@ -35,7 +35,6 @@ if(!isset($_SESSION['UserData']['Username'])){
                     <li><a href=""></a></li>
 		      <li><a href="upload.php">Upload Files</a></li>
 		      <li><a href="aws_exam.php">AWS Exam</a></li>
-		      <li><a href="pluralsight.php">Pluralsight</a></li>
 		      <li><a href="logout.php">Logout</a></li>
 		      <li><a href=""></a></li>
                     <li><a href=""></a></li>
@@ -79,14 +78,14 @@ if(!isset($_SESSION['UserData']['Username'])){
 <div class="col-md-4">
 		<h4>CV</h4>
         <ul>
-            <li><a href="files_uploaded/Ashir_Resume.pdf">Resume</a> | <a href="files_uploaded/Ashir_Resume1.pdf">w/o pic</a></li>
+            <li><a href="files_uploaded/Ashir_Resume.pdf">Resume</a></li>
 			<li><a href="files_uploaded/RnR.pdf">RnR</a></li>
         </ul>
 
 		<h4>Cloud Computing</h4>
 		<h5>1. AWS SysOps Exam Tips</h5>
         <ul>
-			<li><a href="files_uploaded/AWS_TestTips.pdf">Quick Review</a></li>
+			<li><a href="files_uploaded/AWS_Exam_QuickReview.pdf">Quick Review</a></li>
             <li><a href="files_uploaded/01_AWS_SysOps_Monitoring_and_Reporting.pdf">01. Monitoring & Reporting</a></li>
 			<li><a href="files_uploaded/02_AWS_SysOps_Deployment_and_Provisioning.pdf">02. Deployment & Provisioning</a></li>
 			<li><a href="files_uploaded/03_AWS_SysOps_High_Availability.pdf">03. High Availability</a></li>
@@ -106,12 +105,17 @@ if(!isset($_SESSION['UserData']['Username'])){
 			<li><a href="https://www.youtube.com/watch?v=hiu8DLSIoA0">Part 2:Migrating hosts and VM's to the vSphere Distributed Switch.</a></li>
         </ul>
 
+		<h4>Plural Sight</h4>
+        <ul>
+            <li><a href="https://app.pluralsight.com/library/courses/vmware-cloud-on-aws-fundamentals/table-of-contents">VMware Cloud on AWS Fundamentals</a></li>
+            <li><a href="https://app.pluralsight.com/library/courses/fundamentals-storage-virtualization/table-of-contents">Fundamentals of Storage Virtualization</a></li>
+        </ul>
 </div>
    
 <div class="col-md-4">
 		<h4>System Administration</h4>
         <ul>
-			<li><a href="files_uploaded/IQ_Windows_Admin.pdf">Windows Administration</a> | <a href="files_uploaded/IQ_Windows_Admin_Print.pdf">To Print</a></li>
+			<li><a href="files_uploaded/IQ_Windows_Admin.pdf">Windows Administration</a></li>
 			<li><a href="files_uploaded/IQ_Linux_Admin.pdf">Linux Administration</a></li>
         </ul>
 		<h4>Scripts</h4>
@@ -124,7 +128,7 @@ if(!isset($_SESSION['UserData']['Username'])){
         <ul>
 			<li><a href="files_uploaded/IQ_Apache.pdf">Apache Web Server</a></li>
 			<li><a href="files_uploaded/IQ_MDT_WDS.pdf">MDT & WDS</a></li>
-			<li><a href="files_uploaded/IQ_VMware.pdf">VMware</a> | <a href="http://www.vmwareguruz.com/category/interview_qa/realtime/">IQ1</a> - <a href="https://www.besanttechnologies.com/vmware-interview-questions-and-answers">IQ2</a> - <a href="https://www.myvirtualjourney.com/top-80-vmware-interview-questions-answers/">IQ3</a></li>
+			<li><a href="files_uploaded/IQ_VMware.pdf">VMware</a></li>
 			<li><a href="files_uploaded/IQ_Nagios.pdf">Nagios</a></li>
 			<li><a href="files_uploaded/IQ_SCCM.pdf">SCCM</a></li>
 			<li><a href="files_uploaded/IQ_OpenStack.pdf">OpenStack</a></li>
